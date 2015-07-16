@@ -1,0 +1,23 @@
+{
+  "name": "inlinediting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "bower-installer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HierenFeb/inlinediting.git"
+  },
+  "author": "feb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HierenFeb/inlinediting/issues"
+  },
+  "homepage": "https://github.com/HierenFeb/inlinediting#readme",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "bower-installer": "^1.2.0"
+  }
+}

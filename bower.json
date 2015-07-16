@@ -1,0 +1,27 @@
+{
+  "name": "bower",
+  "version": "0.1.0",
+  "authors": [
+    "Hieren Feb <feb@geekpolis.com>"
+  ],
+  "description": "Learning bower by feb",
+  "keywords": [
+    "feb"
+  ],
+  "license": "MIT",
+  "homepage": "http://gocyeuthuong.net",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "ckeditor": "~4.5.1"
+  },
+  "install": {
+    "path": "libs",
+    "sources": {
+      "bootstrap": [
+        "bower_components/bootstrap/dist/js/bootstrap.min.js",
+        "bower_components/bootstrap/dist/css/bootstrap.min.css"
+      ],
+      "ckeditor": "bower_components/ckeditor/**"
+    }
+  }
+}
